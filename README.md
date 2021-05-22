@@ -1,4 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/dhruvsheth-ai/HapticCV)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67831664/119235481-65862500-bb50-11eb-9902-5da12bade6c7.png">
