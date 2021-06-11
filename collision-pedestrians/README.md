@@ -28,5 +28,3 @@ OAK-D retrieves spatial information from each object detected in terms of metre,
 Here, int(detection.spatialCoordinates.z) is in millimetres. The OAK-D cannot compute depth information for distances less than or equal to 0.35metre. 
 
 ![image](https://user-images.githubusercontent.com/67831664/121692719-fdd75000-cae5-11eb-8a88-2eb563d53748.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HmyE_rY06a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
